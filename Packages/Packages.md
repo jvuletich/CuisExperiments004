@@ -1,2 +1,2 @@
 #Packages folder
-This directory holds Cuis packages included in the official release.
+This directory structure holds Cuis packages included in the official release.
