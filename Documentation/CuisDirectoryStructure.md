@@ -13,3 +13,16 @@ It can easily be downloaded from the [Dwonload ZIP](https://codeload.github.com/
 The Git repo can also be cloned locally, to make it easy to pull updates.
 
 Advanced users may run Cuis on other platforms. For this, in addition to the main 64 bit image, we provide 32 bit images in Spur and V3 format. Additional precompiled VMs are provided by https://opensmalltalk.org/ provides additional precompiled VMs, and also the source code to build your own.
+
+(jmv)Elaborate on:
+	DirectoryEntry cuisBaseDirectory
+	DirectoryEntry projectBaseDirectory
+	DirectoryEntry userBaseDirectory
+-----
+	DirectoryEntry currentDirectory
+	DirectoryEntry smalltalkImageDirectory
+	DirectoryEntry vmDirectory
+---
+(jmv)Definirlos. Decir cuando se usa cada uno. Aclarar cuales se pueden definir x linea de comando
+-ud userDirectoryRelativeOrAbsolutePath
+-udIsBase
