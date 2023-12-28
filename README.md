@@ -2,8 +2,12 @@
 
 ## About Cuis
 
-Cuis is an Open Source, multiplatform [Smalltalk-80](https://en.wikipedia.org/wiki/Smalltalk) system. What sets Cuis apart from the other Smalltalk systems is the focus on the original values of the Smalltalk project at Xerox PARC, and an active attitude towards system complexity: Keep it to a minimum.
+Cuis is an Open Source, multiplatform [Smalltalk-80](https://en.wikipedia.org/wiki/Smalltalk) system.
+
+What sets Cuis apart from the other Smalltalk systems is the focus on the original values of the Smalltalk project at Xerox PARC, and an active attitude towards system complexity: Keep it to a minimum.
 
 ## Running Cuis
 
-The easiest way to download and run Cuis is to download the [Zip file](https://codeload.github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/zip/refs/heads/master). Double click on it to unzip, run the appropriate start script (RunCuisOnWindows.bat, RunCuisOnLinux.sh, CuisVM.app). To run on Mac from Terminal, call RunCuisOnMac.sh.
+The easiest way to download and run Cuis is to download the [Zip file](https://codeload.github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/zip/refs/heads/master). Double click on it to unzip, then run the appropriate start script (RunCuisOnWindows.bat, RunCuisOnLinux.sh, CuisVM.app).
+
+To run on Mac from Terminal, call RunCuisOnMac.sh.
