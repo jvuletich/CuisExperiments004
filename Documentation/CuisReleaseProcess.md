@@ -69,4 +69,4 @@ Let's assume the next release will be Cuis version 7.0, and will be released on 
 #### June 1, 2024 to September 30, 2024 - "Alpha development in Cuis-Smalltalk-Dev"
 **Cuis-Smalltalk-Dev repository**
 * A new 6 month cycle starts here.
-* Cuis version is bumped to 7.1.
+* Cuis Rolling Release version is bumped to 7.1.
