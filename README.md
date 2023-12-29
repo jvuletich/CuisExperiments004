@@ -10,4 +10,4 @@ What sets Cuis apart from the other Smalltalk systems is the focus on the origin
 
 The easiest way to download and run Cuis is to download the [Zip file](https://codeload.github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/zip/refs/heads/master). Double click on it to unzip, then run the appropriate start script (RunCuisOnWindows.bat, RunCuisOnLinux.sh, CuisVM.app).
 
-To run on Mac from Terminal, call RunCuisOnMac.sh.
+To start Cuis on a Mac from Terminal, run RunCuisOnMac.sh.
